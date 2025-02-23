@@ -25,7 +25,7 @@ This Excel **KPI** DashBoard Project. The dashboard was created to ***analyze sa
 
 #### The following file is included in this repository:
 
-- [Super Store Interactive KPI Dashboard.xlsx](https://github.com/anandshaw123/Superstore-KPI-Dashboard/blob/main/Super%20Store%20Interactive%20KPI%20Dashboard.xlsx): Excel file containing the interactive dashboard. This file showcases the data analysis, visualizations, and user interface designed for easy exploration of sales data.
+- [SuperStore Interactive KPI Dashboard.xlsx](https://github.com/anandshaw123/Superstore-KPI-Dashboard/blob/main/Super%20Store%20Interactive%20KPI%20Dashboard.xlsx): Excel file containing the interactive dashboard. This file showcases the data analysis, visualizations, and user interface designed for easy exploration of sales data.
 
 
 
