@@ -5,7 +5,9 @@ This Excel **KPI** DashBoard Project. The dashboard was created to ***analyze sa
 
 
 
-![Super Store Sales KPI DashBoard](https://github.com/user-attachments/assets/22074b3b-e16d-4a8e-b2b0-da594ead3a29)
+![Super Store Sales KPI DashBoard](https://github.com/user-attachments/assets/1330f9f7-3c02-402c-81c7-08e207a8caf8)
+
+
 
 ## 📝 Project Highlights:
 
