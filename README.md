@@ -48,5 +48,7 @@ This Excel **KPI** DashBoard Project. The dashboard was created to ***analyze sa
  - Customer Retention Analysis 👥
  - Profitability & Return Rate 💰
 
-
-
+## 📂 How to Use
+ - Open the Excel file and navigate to the Dashboard tab.
+ - Use slicers and filters to explore different regions, customer segments, and product categories.
+ - Analyze sales performance, customer behavior, and profitability metrics.
