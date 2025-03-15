@@ -28,4 +28,25 @@ This Excel **KPI** DashBoard Project. The dashboard was created to ***analyze sa
 
 
 
+## 🛠 Tools & Techniques
+
+ - Excel Functions: VLOOKUP, SUMIF POWER-PIVOT and More..
+
+ - Pivot Tables & Pivot Charts
+
+ - Power Query for Data Transformation
+
+ - Data Visualization & KPI Metrics
+
+ - Interactive Filters & Slicers
+
+
+## 📊 Insights Derived
+
+ - Revenue Trends Over Time 📈
+ - Top Performing Products & Regions 🏆
+ - Customer Retention Analysis 👥
+ - Profitability & Return Rate 💰
+
+
 
