@@ -1,7 +1,7 @@
 # 📊 Interactive KPI Dashboard
 
 
-This Excel **KPI** DashBoard Project. The dashboard was created to ***analyze sales*** data, ***Customer Behavior***, and ***Product Performance***. It includes various features such as Data Cleaning, Transformation, Pivot Tables, Charts, and an Interactive user interface for informed decision-making.
+This Excel **KPI** DashBoard Project. The dashboard was created to ***analyze sales*** data, ***Customer Behavior***, and ***Product Performance***. It includes various features such as Data Cleaning, Transformation, KPIs, Pivot Tables, Charts, and an Interactive user interface for informed decision-making.
 
 
 
